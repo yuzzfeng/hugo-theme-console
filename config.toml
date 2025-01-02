@@ -1,18 +1,24 @@
-name = "hugo-theme-console"
-license = "MIT"
-licenselink = "https://github.com/mrmierzejewski/hugo-theme-console/blob/master/LICENSE"
-description = " minimal and responsive Hugo theme inspired by the system console, crafted for optimal performance with an average page load time of under one second."
-homepage = "https://github.com/mrmierzejewski/hugo-theme-console"
-tags = ["blog", "gallery", "portfolio", "console", "terminal", "clean", "personal", "minimal", "monotone", "simple", "technical", "responsive", "mobile", "minimalist", "retro", "animation"]
-features = ["disqus", "responsive", "google analytics"]
-min_version = "0.90.0"
+baseurl = "https://example.com/"
+title = "console-demo"
+theme = "hugo-theme-console"
+languageCode = "en-us"
 
-[author]
-  name = "Marcin Mierzejewski"
-  homepage = "https://mrmierzejewski.com"
-  github = "https://github.com/mrmierzejewski"
+[params]
+  # Cutting off the page title to two chars for mobile (console-demo -> co)
+  titleCutting = true
 
-[original]
-  author = "Jonas D."
-  homepage = "https://terminalcss.xyz/"
-  repo = "https://github.com/Gioni06/terminal.css"
+  # Set the animation style -- https://animate.style/
+  # To disable animations, please remove or comment animationStyle parameter
+  animateStyle = "animated zoomIn fast" 
+
+  [[params.navlinks]]
+  name = "about/"
+  url = "about/"
+
+  [[params.navlinks]]
+  name = "posts/"
+  url = "posts/"
+  
+  [[params.navlinks]]
+  name = "photos/"
+  url = "photos/"
