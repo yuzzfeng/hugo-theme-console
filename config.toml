@@ -12,13 +12,13 @@ languageCode = "en-us"
   animateStyle = "animated zoomIn fast" 
 
   [[params.navlinks]]
-  name = "exampleSite/about/"
-  url = "exampleSite/about/"
+  name = "exampleSite/content/about/"
+  url = "exampleSite/content/about/"
 
   [[params.navlinks]]
-  name = "exampleSite/posts/"
-  url = "exampleSite/posts/"
+  name = "exampleSite/content/posts/"
+  url = "exampleSite/content/posts/"
   
   [[params.navlinks]]
-  name = "exampleSite/photos/"
-  url = "exampleSite/photos/"
+  name = "exampleSite/content/photos/"
+  url = "exampleSite/content/photos/"
