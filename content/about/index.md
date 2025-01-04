@@ -10,10 +10,4 @@ Dr.-Ing. Yu Feng is currently a Lecturer / Postdoctoral Researcher in Geoinforma
 * Cartographic Generalization with deep learning methods
 * Mobile Laser Scanning (MLS) data processing and modeling
 
-![Console](https://github.com/mrmierzejewski/hugo-theme-console/blob/master/images/preview.png?raw=true)
-
-## Live demo
-
-* [https://mrmierzejewski.com/hugo-theme-console/](https://mrmierzejewski.com/hugo-theme-console/)
-
 Copyright © 2024 Yu Feng
