@@ -3,9 +3,7 @@ title = "Funding received from DAAD PPP with University of Glasgow"
 date = "2024-12-12"
 +++
 
-Funding: Programmes for Project-Related Personal Exchange (PPP) with Scotland
-
-A real-world data-driven simulator for interaction-aware autonomous driving benchmarking
+A real-world data-driven simulator for interaction-aware autonomous driving benchmarking, funded by DAAD Programmes for Project-Related Personal Exchange (PPP) with Scotland.
 
 <!--more-->
 
