@@ -20,5 +20,5 @@ languageCode = "en-us"
   url = "news/"
   
   [[params.navlinks]]
-  name = "publication/"
-  url = "publication/"
+  name = "publications/"
+  url = "publications/"
