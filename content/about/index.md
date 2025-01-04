@@ -8,9 +8,6 @@ I am currently a Lecturer / Postdoctoral Researcher in Geoinformatics and Cartog
 - Geospatial artificial intelligence (GeoAI) and question answering
 - Volunteered Geographic Information (VGI) - social media for disaster monitoring
 - Cartographic Generalization with deep learning methods
-- Mobile Laser Scanning (MLS) data processing and modelling
-
-
-## License
+- Mobile Laser Scanning (MLS) data processing and modeling
 
 Copyright © 2025 [Yu Feng](https://mrmierzejewski.com/)
