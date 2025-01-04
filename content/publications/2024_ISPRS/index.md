@@ -1,5 +1,5 @@
 +++
-image = "2024_ISPRS.png"
+image = "2024_ISPRS.jpg"
 date = "2024-07-23"
 title = "Gap completion in point cloud scene occluded by vehicles using SGC-Net"
 type = "gallery"

@@ -1,5 +1,5 @@
 +++
-image = "2020_ISPRS.png"
+image = "2020_ISPRS.jpg"
 date = "2020-10-08"
 title = "Flood severity mapping from Volunteered Geographic Information by interpreting water level from images containing people: A case study of Hurricane Harvey"
 type = "gallery"
