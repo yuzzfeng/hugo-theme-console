@@ -1,4 +1,4 @@
-baseurl = "https://yuzzfeng.github.io/"
+baseurl = "https://yuzzfeng.netlify.app/"
 title = "AI-lab"
 theme = "hugo-theme-console"
 languageCode = "en-us"
