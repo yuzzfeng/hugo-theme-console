@@ -1,5 +1,5 @@
 +++
-title = "Photos"
+title = "Publication"
 type = "gallery"
 +++
 
