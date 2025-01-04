@@ -9,7 +9,7 @@ I am currently a Lecturer / Postdoctoral Researcher in Geoinformatics and Cartog
 <h1>Latest news</h1>
 
 <div class="posts-list">
-{{ with .Site.GetPage "/posts" }}
+{{ with .Site.GetPage "/news" }}
     {{ range first 3 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
         <div class="post">
             <p>
@@ -25,7 +25,7 @@ I am currently a Lecturer / Postdoctoral Researcher in Geoinformatics and Cartog
 <h1>Latest publications</h1>
 
 <div class="image-grid">
-{{ with .Site.GetPage "/photos" }}
+{{ with .Site.GetPage "/publications" }}
     {{ range first 3 (sort .Data.Pages "Date" "desc")}}
         <a href="{{ .Permalink }}" title="{{ .Title }}">
         {{ $image := .Page.Resources.GetMatch .Params.image }}
