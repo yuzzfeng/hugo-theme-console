@@ -2,7 +2,7 @@
 image = "2024_ISPRS.png"
 date = "2024-07-23"
 title = "Gap completion in point cloud scene occluded by vehicles using SGC-Net"
-type = "Journal"
+type = "gallery"
 +++
 
 Feng, Y., Xu, Y., Xia, Y., Brenner, C., & Sester, M. (2024). Gap completion in point cloud scene occluded by vehicles using SGC-Net. ISPRS Journal of Photogrammetry and Remote Sensing, 215, 331-350.
