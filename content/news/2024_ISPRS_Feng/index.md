@@ -1,5 +1,5 @@
 +++
-title = "Journal paper accepted by ISPRS J. P&RS"
+title = "📖 Journal paper accepted by ISPRS J. P&RS"
 date = "2024-07-11"
 +++
 
