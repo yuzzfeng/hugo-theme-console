@@ -1,5 +1,5 @@
 +++
-title = "Funding received from DAAD PPP with University of Glasgow"
+title = "🎯 Funding received from DAAD PPP with University of Glasgow"
 date = "2024-12-12"
 +++
 
