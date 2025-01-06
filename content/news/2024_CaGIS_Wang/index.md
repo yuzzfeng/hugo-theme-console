@@ -1,5 +1,5 @@
 +++
-title = "Journal paper accepted by CaGIS"
+title = "📖 Journal paper accepted by CaGIS"
 date = "2024-09-23"
 +++
 
