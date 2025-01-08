@@ -3,7 +3,7 @@ title = "📖 Journal paper accepted by ISPRS J. P&RS"
 date = "2024-07-11"
 +++
 
-[Gap completion in point cloud scene occluded by vehicles using SGC-Net](https://doi.org/10.1016/j.isprsjprs.2024.07.009)
+Gap completion in point cloud scene occluded by vehicles using SGC-Net [[paper](https://doi.org/10.1016/j.isprsjprs.2024.07.009)] 
 
 <!--more-->
 
