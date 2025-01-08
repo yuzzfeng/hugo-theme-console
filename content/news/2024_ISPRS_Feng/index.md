@@ -3,9 +3,13 @@ title = "📖 Journal paper accepted by ISPRS J. P&RS"
 date = "2024-07-11"
 +++
 
-Feng, Y., Xu, Y., Xia, Y., Brenner, C., & Sester, M. (2024). Gap completion in point cloud scene occluded by vehicles using SGC-Net. ISPRS Journal of Photogrammetry and Remote Sensing, 215, 331-350.
+[Gap completion in point cloud scene occluded by vehicles using SGC-Net](https://doi.org/10.1016/j.isprsjprs.2024.07.009)
 
 <!--more-->
+
+Feng, Y., Xu, Y., Xia, Y., Brenner, C., & Sester, M. (2024)
+
+ISPRS Journal of Photogrammetry and Remote Sensing, 215, 331-350.
 
 ### Abstract
 
