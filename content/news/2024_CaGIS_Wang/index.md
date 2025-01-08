@@ -3,7 +3,7 @@ title = "📖 Journal paper accepted by CaGIS"
 date = "2024-09-23"
 +++
 
-[Mixed reality-based coordinate system for enhancing survey knowledge acquisition: a study on allocentric and egocentric perspectives](https://doi.org/10.1080/15230406.2024.2409915)
+Mixed reality-based coordinate system for enhancing survey knowledge acquisition: a study on allocentric and egocentric perspectives [[paper](https://doi.org/10.1080/15230406.2024.2409915)]
 
 <!--more-->
 
