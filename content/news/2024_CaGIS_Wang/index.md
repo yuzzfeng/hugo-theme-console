@@ -3,9 +3,13 @@ title = "📖 Journal paper accepted by CaGIS"
 date = "2024-09-23"
 +++
 
-Wang, S., Liu, B., Feng, Y., & Meng, L. (2024). Mixed reality-based coordinate system for enhancing survey knowledge acquisition: a study on allocentric and egocentric perspectives. Cartography and Geographic Information Science, 1-21.
+[Mixed reality-based coordinate system for enhancing survey knowledge acquisition: a study on allocentric and egocentric perspectives](https://doi.org/10.1080/15230406.2024.2409915)
 
 <!--more-->
+
+Wang, S., Liu, B., Feng, Y., & Meng, L. (2024)
+
+Cartography and Geographic Information Science
 
 ### Abstract
 
