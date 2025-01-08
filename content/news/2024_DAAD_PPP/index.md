@@ -1,11 +1,15 @@
 +++
-title = "🎯 Funding received from DAAD PPP with University of Glasgow"
+title = "🎯 Funding received from DAAD PPP in collaboration with the University of Glasgow"
 date = "2024-12-12"
 +++
 
-A real-world data-driven simulator for interaction-aware autonomous driving benchmarking, funded by DAAD Programmes for Project-Related Personal Exchange (PPP) with Scotland.
+A real-world data-driven simulator for interaction-aware autonomous driving benchmarking
 
 <!--more-->
+
+funded by DAAD Programmes for Project-Related Personal Exchange (PPP) with Scotland.
+
+PI: Dr. Yu Feng, Dr. Jianglin Lan
 
 ### Abstract
 
