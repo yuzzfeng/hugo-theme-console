@@ -1,5 +1,5 @@
 +++
-title = "Publication"
+title = "Selected Publication"
 type = "gallery"
 +++
 
