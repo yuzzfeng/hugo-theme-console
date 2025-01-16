@@ -18,7 +18,11 @@ languageCode = "zh-cn"
   [[params.navlinks]]
   name = "news/"
   url = "news/"
-  
+
+  [[params.navlinks]]
+  name = "projects/"
+  url = "projects/"
+
   [[params.navlinks]]
   name = "publications/"
   url = "publications/"
