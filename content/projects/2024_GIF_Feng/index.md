@@ -7,6 +7,9 @@ co-PI, funded by [TUM Global Incentive Fund](https://www.international.tum.de/en
 
 <!--more-->
 
+### Fund
+EUR 10k
+
 ### Objectives
 This project aims at strengthening the collaboration and exchange between the Technical University of Munich (TUM) and Aalto University in the research field of visual analysis and urban mobility big geospatial data. 
 
