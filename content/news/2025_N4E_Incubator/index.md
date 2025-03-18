@@ -1,5 +1,5 @@
 +++
-title = "🎯 Funding received for project "PhenoMapping" from NFDI4Earth collaborating with the archives of the Bavarian State (GDA)"
+title = "🎯 Funding received from NFDI4Earth collaborating with the archives of the Bavarian State (GDA)"
 date = "2025-02-04"
 +++
 
