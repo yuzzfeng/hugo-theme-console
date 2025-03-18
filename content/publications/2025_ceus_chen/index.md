@@ -1,5 +1,5 @@
 +++
-image = "2025_ceus_chen.jpg"
+image = "2025_ceus_chen.jpeg"
 date = "2025-02-14"
 title = "Interpreting core forms of urban morphology linked to urban functions with explainable graph neural network"
 type = "gallery"
