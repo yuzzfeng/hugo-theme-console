@@ -1,5 +1,5 @@
 +++
-image = "2022_ijgis_feng.jpg"
+image = "2022_ijgis_feng.jpeg"
 date = "2022-07-03"
 title = "Extraction and analysis of natural disaster-related VGI from social media: review, opportunities and challenges"
 type = "gallery"
