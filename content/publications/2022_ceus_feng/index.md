@@ -1,5 +1,5 @@
 +++
-image = "2022_ceus_feng.jpg"
+image = "2022_ceus_feng.jpeg"
 date = "2022-02-01"
 title = "Determination of building flood risk maps from LiDAR mobile mapping data"
 type = "gallery"
