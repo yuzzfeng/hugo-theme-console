@@ -1,12 +1,12 @@
 +++
-image = "2024_isprs_feng.jpg"
-date = "2024-07-23"
-title = "Gap completion in point cloud scene occluded by vehicles using SGC-Net"
+image = "2022_ijgis_feng.jpg"
+date = "2022-07-03"
+title = "Extraction and analysis of natural disaster-related VGI from social media: review, opportunities and challenges"
 type = "gallery"
 +++
 
-Feng, Y., Xu, Y., Xia, Y., Brenner, C., & Sester, M. (2024). Gap completion in point cloud scene occluded by vehicles using SGC-Net. ISPRS Journal of Photogrammetry and Remote Sensing, 215, 331-350.
+Feng, Y., Huang, X., & Sester, M. (2022). Extraction and analysis of natural disaster-related VGI from social media: review, opportunities and challenges. International Journal of Geographical Information Science, 36(7), 1275-1316.
 
 ### Abstract
 
-Recent advances in mobile mapping systems have greatly enhanced the efficiency and convenience of acquiring urban 3D data. These systems utilize LiDAR sensors mounted on vehicles to capture vast cityscapes. However, a significant challenge arises due to occlusions caused by roadside parked vehicles, leading to the loss of scene information, particularly on the roads, sidewalks, curbs, and the lower sections of buildings. In this study, we present a novel approach that leverages deep neural networks to learn a model capable of filling gaps in urban scenes that are obscured by vehicle occlusion. We have developed an innovative technique where we place virtual vehicle models along road boundaries in the gap-free scene and utilize a ray-casting algorithm to create a new scene with occluded gaps. This allows us to generate diverse and realistic urban point cloud scenes with and without vehicle occlusion, surpassing the limitations of real-world training data collection and annotation. Furthermore, we introduce the Scene Gap Completion Network (SGC-Net), an end-to-end model that can generate well-defined shape boundaries and smooth surfaces within occluded gaps. The experiment results reveal that 97.66% of the filled points fall within a range of 5 centimeters relative to the high-density ground truth point cloud scene. These findings underscore the efficacy of our proposed model in gap completion and reconstructing urban scenes affected by vehicle occlusions.
+The idea of ‘citizen as sensors’ has gradually become a reality over the past decade. Today, Volunteered Geographic Information (VGI) from citizens is highly involved in acquiring information on natural disasters. In particular, the rapid development of deep learning techniques in computer vision and natural language processing in recent years has allowed more information related to natural disasters to be extracted from social media, such as the severity of building damage and flood water levels. Meanwhile, many recent studies have integrated information extracted from social media with that from other sources, such as remote sensing and sensor networks, to provide comprehensive and detailed information on natural disasters. Therefore, it is of great significance to review the existing work, given the rapid development of this field. In this review, we summarized eight common tasks and their solutions in social media content analysis for natural disasters. We also grouped and analyzed studies that make further use of this extracted information, either standalone or in combination with other sources. Based on the review, we identified and discussed challenges and opportunities.
