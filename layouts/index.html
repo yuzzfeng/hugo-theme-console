@@ -27,7 +27,7 @@ I am currently a Lecturer / Postdoctoral Researcher in Geoinformatics and Cartog
 
 <div class="posts-list">
 {{ with .Site.GetPage "/news" }}
-    {{ range first 3 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
+    {{ range first 4 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
         <div class="post">
             <p>
                 <div class="date">{{ .PublishDate.Format "Jan. 2, 2006" }}</div>
@@ -43,7 +43,7 @@ I am currently a Lecturer / Postdoctoral Researcher in Geoinformatics and Cartog
 
 <div class="image-grid">
 {{ with .Site.GetPage "/publications" }}
-    {{ range first 3 (sort .Data.Pages "Date" "desc")}}
+    {{ range first 6 (sort .Data.Pages "Date" "desc")}}
         <a href="{{ .Permalink }}" title="{{ .Title }}">
         {{ $image := .Page.Resources.GetMatch .Params.image }}
         {{ with $image }}
